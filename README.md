@@ -12,3 +12,5 @@ numbers with dynamic memory management.
 ## How to Run
 gcc *.c
 ./a.out 23432+ 3421
+
+
